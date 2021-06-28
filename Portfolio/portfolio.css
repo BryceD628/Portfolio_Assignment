@@ -1,0 +1,129 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,300;1,300&display=swap');    
+.wrapper{
+    width: 970px;
+    background-color: lightgray;
+    margin: auto;
+}
+.header{
+    color:black;
+    padding: 0px 15px 0px 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.main-box{
+    padding: 20px;
+    background:linear-gradient(#1a0d10, #745b68);
+    display: flex;
+    align-items: center;
+}
+.me-img{
+    height: 245px;
+    width: 400px;
+    border: 5px solid lightgrey;
+}
+.main-box p{
+    margin-bottom: 15px;
+    padding-left: 10px;
+
+}
+.main-box a{
+    padding-left: 10px;
+}
+.about{
+    display: flex;
+    justify-content: space-around;
+    background:linear-gradient(#1a0d10, #745b68);
+    padding: 5px 0 0 0;
+}
+.about-me-section{
+    background: linear-gradient(to bottom right, #f0ecec, #ddc9db);
+    width: 490px;
+}
+.lamode{
+    width: 310px;
+    height: 580px;
+    background-color: lightgrey;
+}
+.lamode img{
+    height: 150px;
+    width: 303.3px;
+}
+.family-contacts{
+    width: 310px;
+    height: 580px;
+    margin-left: 10px;
+    background-color: lightgray;
+}
+.family-contacts img{
+    height: 150px;
+    width: 303.3px;
+}
+.five-eleven{
+    width: 310px;
+    height: 580px;
+    margin-left: 10px;
+    background-color: lightgray;
+}
+.five-eleven img{
+    height: 150px;
+    width: 303.3px;
+}
+.tech-images img{ 
+    width: 40px;
+    height: 40px;
+}
+h2{
+    color: white;
+    background: linear-gradient(gray, lightgray,gray);
+    margin: 0px;
+    padding-left: 5px;
+}
+.lamode p{
+    height: 162px;
+    margin: 10px 0 15px 0;
+    text-align: justify;
+}
+.family-contacts p{
+    height: 162px;
+    margin: 10px 0 15px 0;
+    text-align: justify;
+}
+.five-eleven p{
+    height: 162px;
+    margin: 10px 0 15px 0;
+    text-align: justify;
+}
+.tech-images{
+    padding: 10px;
+}
+.about-me-section p{
+    padding-left: 10px;
+    text-align: justify;
+}
+.about-me-section a{
+    padding-left: 10px;
+}
+.footer{
+    height: 55px;
+    margin: 5px 0 0 330px;
+}
+.footer p{
+    height: 15px;
+    margin: 5px 0 0 50px;
+}
+.footer img{
+    width: 15px;
+    height: 15px;
+    margin: 15px 0 0 0;
+}
+.footer a{
+    align-items: flex-end;
+}
+.button{
+    margin: 30px 0 0 90px;
+    background-color: green;
+    color: white;
+    border: 1px solid black;
+    border-radius: 15px;
+}
